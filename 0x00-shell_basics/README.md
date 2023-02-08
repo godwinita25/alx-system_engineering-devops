@@ -1,1 +1,1 @@
-a script that prints the absolute path name of the current working directory.
+Basic Shell commands, navigation, files and directries for Software Engineering. by Godwin_Ita
