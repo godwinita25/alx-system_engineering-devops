@@ -1,1 +1,1 @@
-basic 0x02-shell redirection guide
+Shell I/O Redirection
